@@ -43,7 +43,9 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
+<!-- GitHub Activity Graph -->
+[![Ping's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luoping1004&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Ping's Contribution Snake](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
