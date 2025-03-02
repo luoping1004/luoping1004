@@ -45,8 +45,8 @@
 ### 📈 GitHub Activity Graph:
 <!-- GitHub Activity Graph -->
 <!-- [![Ping's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luoping1004&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luoping1004/luoping1004/blob/output/github-contribution-grid-snake.svg)
+<!-- ![GitHub Contribution Snake](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg) -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Ping's github stats](https://github-readme-stats.vercel.app/api?username=luoping1004&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luoping1004&theme=radical&layout=compact) |
