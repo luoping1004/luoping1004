@@ -44,9 +44,9 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!-- GitHub Activity Graph -->
-[![Ping's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luoping1004&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ping's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luoping1004&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-![Ping's Contribution Snake](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=luoping1004&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
