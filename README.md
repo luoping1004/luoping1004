@@ -44,7 +44,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <!-- GitHub Activity Graph -->
-[![Ping's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luoping1004&theme=github-compact)]
+![Ping's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luoping1004&theme=github)
 ![snake activity graph](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg)
 <!-- ![GitHub Contribution Snake](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg) -->
 | .                                                                                                                                       | .                                                                                                                         |
