@@ -46,7 +46,7 @@
 <!-- GitHub Activity Graph -->
 <!-- ![Ping's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luoping1004&theme=github) -->
 [![GitHub Contributions](https://ghchart.rshah.org/luoping1004)](https://github.com/luoping1004)
-![snake activity graph](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg)
+<!-- ![snake activity graph](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg) -->
 <!-- ![GitHub Contribution Snake](https://raw.githubusercontent.com/luoping1004/luoping1004/output/github-contribution-grid-snake.svg) -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
