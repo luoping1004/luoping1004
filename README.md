@@ -3,11 +3,11 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/luoping1004/luoping1004"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/luoping1004/luoping1004/graphs/contributors"><img src="https://img.shields.io/github/contributors/luoping1004/luoping1004?color=blue"></a>
     <a href="https://github.com/luoping1004/luoping1004/stargazers"><img src="https://img.shields.io/github/stars/luoping1004/luoping1004.svg?logo=github"></a>
     <a href="https://github.com/luoping1004/luoping1004/network/members"><img src="https://img.shields.io/github/forks/luoping1004/luoping1004.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=luoping1004.luoping1004" alt="visitors"/>   
+    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=luoping1004.luoping1004" alt="visitors"/>    -->
 </p>
 
 <!--   my-header-img -->
